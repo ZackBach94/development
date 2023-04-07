@@ -18,9 +18,9 @@ To set up your Raspberry Pi, you will need the following components:
 - MicroSD card reader
 - Ethernet cable
 - USB power supply (at least 5V, 2.5A)
-- HDMI cable
-- USB keyboard
-- USB mouse
+- HDMI cable (optional)
+- USB keyboard (optional)
+- USB mouse (optional)
 
 ## Important Commands
 
